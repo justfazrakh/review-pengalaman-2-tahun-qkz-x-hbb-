@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+.heading-block {
+    background-color: #be9d5f;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.heading-block .container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.heading-block h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #333;
+}
+
+.heading-block .subtitle {
+    font-size: 1.2em;
+    color: #666;
+}
