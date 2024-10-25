@@ -1,4 +1,3 @@
-.transparent-style{
-    background-color: grey;
-    opacity: .4;
+body {
+    background-color: #808080;
 }
